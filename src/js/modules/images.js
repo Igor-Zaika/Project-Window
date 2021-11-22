@@ -32,8 +32,6 @@ const images = () => {
             document.body.style.overflow = '';
         }
     });
-
-
 };
 
 export default images;
